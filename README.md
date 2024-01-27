@@ -10,8 +10,11 @@ To install the dependencies and libraries-
 
     cd tic-tac-toe
     npm install
+
 To start the application on `localhost:3000`-
-`npm start`
+
+    npm start
+
 ##  Link to project
 [Click here to view](https://tic-tac-toe-shubham.vercel.app/)
 ## Reference
